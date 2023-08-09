@@ -1,21 +1,4 @@
 
-<div align="center" >
-  <br>
-  <img src="https://raw.githubusercontent.com/robiot/AlphaClicker/main/.github/Images/banner.png">
-  <br>
-  
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/contributors/robiot/AlphaClicker?label=Contributors">
-  <img alt="GitHub Latest Release" src="https://img.shields.io/github/v/tag/robiot/AlphaClicker?label=Latest%20Release">
-  <img alt="GitHub Total Downloads" src="https://img.shields.io/github/downloads/robiot/AlphaClicker/total?label=GitHub%20Downloads">
-  <img alt="GitHub Total Issues" src="https://img.shields.io/github/issues/robiot/AlphaClicker?label=Issues">  
-  <img alt="GitHub Total Pull Requests" src="https://img.shields.io/github/issues-pr-raw/robiot/AlphaClicker?label=Open%20Pull%20Requests">
-  
-  <br>
-  <a href="https://github.com/robiot/AlphaClicker/releases/latest/download/AlphaClicker.exe">Download Latest</a>
-  <hr>
-</div>
-<br>
-
 ## Note: This is the original software, which has been copied, modified and distributed illegaly by other individuals. Please do not use them.
  
 :thinking: What is this?
